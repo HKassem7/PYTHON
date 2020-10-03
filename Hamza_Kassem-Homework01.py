@@ -1,0 +1,6 @@
+print("i am Hamza Kassem")
+print("September 2, 2018")
+print("Macintosh HD > Applications > Python3.6")
+print("On my macbook")
+print("Yes i can run python from any folder on my computer")
+exit=input('Strike any key to Exit:')
